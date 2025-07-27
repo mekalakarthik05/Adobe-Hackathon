@@ -1,5 +1,0 @@
-pdf2image
-pytesseract
-scikit-learn
-numpy
-Pillow
