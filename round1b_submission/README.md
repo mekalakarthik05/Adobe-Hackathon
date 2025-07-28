@@ -82,3 +82,9 @@ docker run --rm \
 - ⏱ Processing time ≤ 60 seconds for 3–5 PDFs
 - 🌐 No internet/network access
 
+📌 Notes
+- Avoid hardcoded logic for specific personas or documents.
+- Use semantic relevance to rank sections/subsections.
+- Ensure offline execution with model size ≤ 1GB.
+- All dependencies must be handled via requirements.txt.
+
