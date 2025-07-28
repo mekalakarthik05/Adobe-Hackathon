@@ -13,16 +13,16 @@ Build an intelligent document analyzer that extracts and ranks the most relevant
 
 ```
 round1b_submission/
-├── Dockerfile # Docker build file
-├── main.py # Main script to run the processing
-├── requirements.txt # Python dependencies
-├── input/ # Input directory (mounted in Docker)
-│ ├── document1.pdf # Example input PDFs
+├── Dockerfile             
+├── main.py                 
+├── requirements.txt          
+├── input/               
+│ ├── document1.pdf      # Example input PDFs
 │ ├── document2.pdf
-│ └── persona_job.json # Persona and job-to-be-done definition
-├── output/ # Output directory (mounted in Docker)
-│ └── output.json # Generated output after processing
-└── README.md # This file
+│ └── persona_job.json   # Persona and job-to-be-done definition
+├── output/              
+│ └── output.json        # Generated output after processing
+└── README.md 
 ```
 ---
 
