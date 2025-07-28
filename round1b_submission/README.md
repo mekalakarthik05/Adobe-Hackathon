@@ -7,6 +7,25 @@ Build an intelligent document analyzer that extracts and ranks the most relevant
 - A persona definition
 - A job-to-be-done
 
+---
+
+## 📁 Folder Structure
+
+```
+round1b_submission/
+├── Dockerfile # Docker build file
+├── main.py # Main script to run the processing
+├── requirements.txt # Python dependencies
+├── input/ # Input directory (mounted in Docker)
+│ ├── document1.pdf # Example input PDFs
+│ ├── document2.pdf
+│ └── persona_job.json # Persona and job-to-be-done definition
+├── output/ # Output directory (mounted in Docker)
+│ └── output.json # Generated output after processing
+└── README.md # This file
+```
+---
+
 ## 📥 Input
 Place the following in the `/app/input/` directory:
 
