@@ -1,0 +1,444 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": {
+            "role": "Travel Planner"
+        },
+        "job_to_be_done": {
+            "task": "Plan a trip of 4 days for a group of 10 college friends."
+        },
+        "timestamp": "2025-07-27T19:58:22.001130"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 9,
+            "section_title": "planetarium, and a replica of the Mir space station. It's an engaging and educational",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 7,
+            "section_title": "¢ Opéra Grand Avignon: Attend a performance at the Opéra Grand Avignon for a",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 3,
+            "section_title": "Boat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 4,
+            "section_title": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 5,
+            "section_title": "Marc Chagall National Museum: Explore the works of Marc Chagall at this dedicated",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 2,
+            "section_title": "a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 6,
+            "section_title": "sample different varieties of olive oil and learn about the nuances of flavor and aroma.",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 4,
+            "section_title": "Riviera. The restaurant's terrace offers panoramic views of the Mediterranean, making",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 4,
+            "section_title": "La Table de Plaisance (Saint-Emilion): A two-Michelin-starred restaurant offering a",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 2,
+            "section_title": "casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish.",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 3,
+            "section_title": "dates back to 1873 and features elaborate parades, floats, and flower battles4.",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 3,
+            "section_title": "Carnival of Nice: One of the most famous carnivals in France, the Carnival of Nice",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 5,
+            "section_title": "Roman sanctuary. They offer a peaceful retreat with beautiful fountains, statues, and",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 6,
+            "section_title": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 11,
+            "section_title": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 2,
+            "section_title": "Le Panier (Marseille): A casual eatery offering a variety of Mediterranean dishes at",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 6,
+            "section_title": "Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant offering a variety of",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 3,
+            "section_title": "Le Café de la Plage (Arcachon): This beachfront café offers a variety of seafood dishes",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 4,
+            "section_title": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant offering a",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 7,
+            "section_title": "La Villa Madie (Cassis): A two-Michelin-starred restaurant offering a variety of dishes",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 7,
+            "section_title": "e Saint-Raphaél: Visit the Thalasso Spa for seawater treatments and relaxation.",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 8,
+            "section_title": "The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 9,
+            "section_title": "Cap d'Agde: Have fun at Luna Park, an amusement park with rides and games.",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 13,
+            "section_title": "The South of France is a diverse and enchanting region that offers a wide range of activities",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 1,
+            "section_title": "take you through a variety of activities and must-see attractions to help you plan an",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 7,
+            "section_title": "Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 8,
+            "section_title": "Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 2,
+            "section_title": "Travel Pillow and Blanket: A compact travel pillow and blanket can make long flights",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 7,
+            "section_title": "Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 3,
+            "section_title": "Accessories: A scarf, sunglasses for sunny winter days, and a travel-sized hand",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 2,
+            "section_title": "The Provencal language, also known as Occitan, has been a significant part of the cultural",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 2,
+            "section_title": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 2,
+            "section_title": "practice, transhumance festivals are still celebrated in many villages, particularly in Saint-",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 3,
+            "section_title": "integral part of the local culture, and vineyards often host tours and tastings. The tradition of",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 4,
+            "section_title": "The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and",
+            "importance_rank": 5
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 9,
+            "section_title": "planetarium, and a replica of the Mir space station. It's an engaging and educational",
+            "refined_text": "planetarium, and a replica of the Mir space station. It's an engaging and educational"
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 7,
+            "section_title": "¢ Opéra Grand Avignon: Attend a performance at the Opéra Grand Avignon for a",
+            "refined_text": "¢ Opéra Grand Avignon: Attend a performance at the Opéra Grand Avignon for a"
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 3,
+            "section_title": "Boat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning",
+            "refined_text": "Boat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning"
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 4,
+            "section_title": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-",
+            "refined_text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-"
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page": 5,
+            "section_title": "Marc Chagall National Museum: Explore the works of Marc Chagall at this dedicated",
+            "refined_text": "Marc Chagall National Museum: Explore the works of Marc Chagall at this dedicated"
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 2,
+            "section_title": "a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other",
+            "refined_text": "a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other"
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 6,
+            "section_title": "sample different varieties of olive oil and learn about the nuances of flavor and aroma.",
+            "refined_text": "sample different varieties of olive oil and learn about the nuances of flavor and aroma."
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 4,
+            "section_title": "Riviera. The restaurant's terrace offers panoramic views of the Mediterranean, making",
+            "refined_text": "Riviera. The restaurant's terrace offers panoramic views of the Mediterranean, making"
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 4,
+            "section_title": "La Table de Plaisance (Saint-Emilion): A two-Michelin-starred restaurant offering a",
+            "refined_text": "La Table de Plaisance (Saint-Emilion): A two-Michelin-starred restaurant offering a"
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "page": 2,
+            "section_title": "casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish.",
+            "refined_text": "casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish."
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 3,
+            "section_title": "dates back to 1873 and features elaborate parades, floats, and flower battles4.",
+            "refined_text": "dates back to 1873 and features elaborate parades, floats, and flower battles4."
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 3,
+            "section_title": "Carnival of Nice: One of the most famous carnivals in France, the Carnival of Nice",
+            "refined_text": "Carnival of Nice: One of the most famous carnivals in France, the Carnival of Nice"
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 5,
+            "section_title": "Roman sanctuary. They offer a peaceful retreat with beautiful fountains, statues, and",
+            "refined_text": "Roman sanctuary. They offer a peaceful retreat with beautiful fountains, statues, and"
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 6,
+            "section_title": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located",
+            "refined_text": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located"
+        },
+        {
+            "document": "South of France - History.pdf",
+            "page": 11,
+            "section_title": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
+            "refined_text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan"
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 2,
+            "section_title": "Le Panier (Marseille): A casual eatery offering a variety of Mediterranean dishes at",
+            "refined_text": "Le Panier (Marseille): A casual eatery offering a variety of Mediterranean dishes at"
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 6,
+            "section_title": "Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant offering a variety of",
+            "refined_text": "Le Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant offering a variety of"
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 3,
+            "section_title": "Le Café de la Plage (Arcachon): This beachfront café offers a variety of seafood dishes",
+            "refined_text": "Le Café de la Plage (Arcachon): This beachfront café offers a variety of seafood dishes"
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 4,
+            "section_title": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant offering a",
+            "refined_text": "AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant offering a"
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page": 7,
+            "section_title": "La Villa Madie (Cassis): A two-Michelin-starred restaurant offering a variety of dishes",
+            "refined_text": "La Villa Madie (Cassis): A two-Michelin-starred restaurant offering a variety of dishes"
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 7,
+            "section_title": "e Saint-Raphaél: Visit the Thalasso Spa for seawater treatments and relaxation.",
+            "refined_text": "e Saint-Raphaél: Visit the Thalasso Spa for seawater treatments and relaxation."
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 8,
+            "section_title": "The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan",
+            "refined_text": "The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan"
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 9,
+            "section_title": "Cap d'Agde: Have fun at Luna Park, an amusement park with rides and games.",
+            "refined_text": "Cap d'Agde: Have fun at Luna Park, an amusement park with rides and games."
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 13,
+            "section_title": "The South of France is a diverse and enchanting region that offers a wide range of activities",
+            "refined_text": "The South of France is a diverse and enchanting region that offers a wide range of activities"
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page": 1,
+            "section_title": "take you through a variety of activities and must-see attractions to help you plan an",
+            "refined_text": "take you through a variety of activities and must-see attractions to help you plan an"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 7,
+            "section_title": "Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a",
+            "refined_text": "Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 8,
+            "section_title": "Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a",
+            "refined_text": "Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 2,
+            "section_title": "Travel Pillow and Blanket: A compact travel pillow and blanket can make long flights",
+            "refined_text": "Travel Pillow and Blanket: A compact travel pillow and blanket can make long flights"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 7,
+            "section_title": "Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and",
+            "refined_text": "Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and"
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page": 3,
+            "section_title": "Accessories: A scarf, sunglasses for sunny winter days, and a travel-sized hand",
+            "refined_text": "Accessories: A scarf, sunglasses for sunny winter days, and a travel-sized hand"
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 2,
+            "section_title": "The Provencal language, also known as Occitan, has been a significant part of the cultural",
+            "refined_text": "The Provencal language, also known as Occitan, has been a significant part of the cultural"
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 2,
+            "section_title": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates",
+            "refined_text": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates"
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 2,
+            "section_title": "practice, transhumance festivals are still celebrated in many villages, particularly in Saint-",
+            "refined_text": "practice, transhumance festivals are still celebrated in many villages, particularly in Saint-"
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 3,
+            "section_title": "integral part of the local culture, and vineyards often host tours and tastings. The tradition of",
+            "refined_text": "integral part of the local culture, and vineyards often host tours and tastings. The tradition of"
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "page": 4,
+            "section_title": "The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and",
+            "refined_text": "The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and"
+        }
+    ]
+}
