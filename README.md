@@ -16,7 +16,7 @@ Welcome to our official submission for the Adobe India Hackathon. This project a
 
 ## 🧭 Project Structure
 
-\`\`\`
+```
 Adobe-Hackathon/
 ├── round1a/                  # Round 1A: Outline Extraction
 │   ├── main.py
@@ -35,7 +35,7 @@ Adobe-Hackathon/
 │   └── output/               # Output JSON file will be saved here
 │
 └── README.md                # Root-level summary (this file)
-\`\`\`
+```
 
 ---
 
